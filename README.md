@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @birandtokac
-- 👀 I’m interested in ...  ->  Game Development
-- 🌱 I’m currently learning ... ->  3D Modelling (Blender) 
-- 💞️ I’m looking to collaborate on ... ->  Unity
+- 👀 I’m interested in ...  ->  Back-End & Game Development
+- 🌱 I’m currently learning ... ->  MVC & 3D Modelling (Blender) 
+- 💞️ I’m looking to collaborate on ... ->  VSC & Unity
 - 📫 How to reach me ...  ->  tokacbirand@gmail.com
 
 <!---
