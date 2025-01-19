@@ -1,0 +1,14 @@
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.AssemblyInfoInputs.cache
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.AssemblyInfo.cs
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.csproj.CoreCompileInputs.cache
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/bin/Debug/net8.0/While
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/bin/Debug/net8.0/While.deps.json
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/bin/Debug/net8.0/While.runtimeconfig.json
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/bin/Debug/net8.0/While.dll
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/bin/Debug/net8.0/While.pdb
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.dll
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/refint/While.dll
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.pdb
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/While.genruntimeconfig.cache
+/Users/birandtokac/Desktop/CODEWARS_FOLDER/TESTS/While/obj/Debug/net8.0/ref/While.dll
