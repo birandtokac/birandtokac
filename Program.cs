@@ -43,6 +43,7 @@ public class Program
                 Console.WriteLine("Rasgele sayı: "+RandomVal);
                 break;
             }
+            //Eğer seçilen sayı, Random sayıdan büyük veya küçükse diye belirtmek
             else if(SelectedVal > RandomVal)
             {
             Console.WriteLine("Daha küçük bir sayı tahmin etmelisiniz.");
